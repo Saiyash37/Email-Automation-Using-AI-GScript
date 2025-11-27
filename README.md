@@ -1,5 +1,6 @@
 HR Outreach — README (professional)
 
+
 Overview
 --------
 This repository contains:
@@ -70,8 +71,6 @@ Best practices & notes
 - Keep a small test dataset (2–3 rows) to verify behavior before using at scale.
 - Optional enhancements: logging sheet, email send limits per day check, richer error details, ability to pause global dispatcher without deleting triggers.
 
-Support & next steps I can deliver
+Disclamer
 ----------------------------------
-- Add a "Log" sheet for audit rows (timestamp, row, action, result, error).
-- Add a header-protection routine so users cannot accidentally edit template ranges.
-- Add a small UI sidebar for composing new templates from the sheet.
+- This project was possible & prepared under the guidance of Professor Shivam Palan.
